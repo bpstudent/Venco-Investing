@@ -5,6 +5,9 @@ title: Kieran Testing 4 DA BOIzZ!
 
 Basic blog post testing number 1.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+html front-end raw testing: [b] Bold [/b] 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<p> Kieran wrote a parapgraph </b>
+
+<list>
+  t
