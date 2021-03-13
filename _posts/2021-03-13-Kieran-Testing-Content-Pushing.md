@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
@@ -28,7 +28,3 @@ Bullet Points testing using SCSS built in.
 - a
 - b
 - v
-
-
-
-
