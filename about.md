@@ -5,13 +5,14 @@ permalink: /about/
 published: true
 ---
 
-Some information about ourselves - maybe use for discord invite?!
+At Venco Investing our aim is help educate those who are looking to get into investing but have no idea what to do or where to start. We aim to make your entry into financial freedom as pain fee as possible. By creating an environment where beginners can freely ask for help or guidance from the network, without feeling intimidated in doing so, together we will navigate opportunities available to the retail market to turn your cash into future gains.
 
-### More Information --K Testing
 
-A place to include any other types of information that you'd like to include about yourself.
+### Discord Link
+
+https://discord.gg/JN7Njq6JaE
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
-built in a pop up for email.
+[vencoinvesting@gmail.com](mailto:vencoinvesting@gmail.com)
+
