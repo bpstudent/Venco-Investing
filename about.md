@@ -10,7 +10,7 @@ At Venco Investing our aim is help educate those who are looking to get into inv
 
 ### Discord Link
 
-[Press here to sigh up to our discord group](https://discord.gg/JN7Njq6JaE)
+[Press here to sign up to our discord group](https://discord.gg/JN7Njq6JaE)
 
 ### Contact me
 
