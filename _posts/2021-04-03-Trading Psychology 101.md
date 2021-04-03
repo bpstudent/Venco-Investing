@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Trading Psychology 101
 
@@ -50,14 +50,3 @@ When beginning your investment journey it will seem like you climbing Everest, b
 
 
 To have the best start to investing and trading the stock market we recommend you read our blog on Getting Started [insert link to blog] and also check out our educational resources in our discord channel [insert discord link]
-
-
-
-
-
-
-
-
-
-
-
