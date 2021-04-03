@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trading Psychology 101
+title: Test
 published: true
 ---
 
