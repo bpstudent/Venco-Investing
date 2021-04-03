@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kieran Testing 4 DA BOIzZ!
+title: Trading Psychology 101
 published: true
 ---
 
