@@ -15,7 +15,7 @@ How you react to these can show the gaps in trading knowledge. What is important
 
 In our experience managing these emotions is easier than it might seem, education and experience. 
 
-Educating yourselves is vital to controlling your emotions. This can be the difference between holding on to a stock that is getting pumped and losing all your gains and even going past your entry into a loss or getting out right at the top and making serious profits. This is what many people did with the short squeeze on Gamestop (GME). Education is often better than experience. We say this because more often than not the experiences that you learn from are the ones where you have lost money. Always favour educational learning over learning experiences. You can find the free educational resources we use in our [discord channel](https://discord.gg/23rSGgGhBm "discord link").
+Educating yourselves is vital to controlling your emotions. This can be the difference between holding on to a stock that is getting pumped and losing all your gains and even going past your entry into a loss or getting out right at the top and making serious profits. This is what many people did with the short squeeze on Gamestop (GME). Education is often better than experience. We say this because more often than not the experiences that you learn from are the ones where you have lost money. Always favour educational learning over learning experiences. You can find the free educational resources we use in our [discord channel](https://discord.gg/MkGEayBF "discord link").
 
 Being organised can also help you manage your emotions and develop a strong financially focused mindset. We find that the best way to do this is to have a good routine that you follow each day in the premarket before trading starts. By doing this you will get a good understanding of how the markets are performing, which will let you understand how your stocks are reacting to the market conditions on any specific day. Of course, your routine will vary depending on your trading style. For instance, a day trader might look for possible entry points each day from candlestick patterns, while a value investor might spend the morning looking for undervalued firms via net present value calculations. 
 
@@ -49,4 +49,4 @@ When beginning your investment journey it will seem like you climbing Everest, b
 
 
 
-To have the best start to investing and trading the stock market we recommend you read our blog on Getting Started [insert link to blog] and also check out our educational resources in our [discord channel](https://discord.gg/23rSGgGhBm  "discord link"). 
+To have the best start to investing and trading the stock market we recommend you read our blog on Getting Started [insert link to blog] and also check out our educational resources in our [discord channel](https://discord.gg/MkGEayBF "discord link"). 
