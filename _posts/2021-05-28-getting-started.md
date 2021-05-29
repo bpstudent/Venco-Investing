@@ -1,17 +1,17 @@
 ---
 published: true
----
-How To Start Retail Trading 101
+---**
+How To Start Retail Trading 101**
 
 The easiest and fastest way to start retail trading is through using a mobile phone and a mobile trading application. Some of these come with desktop services also while others do not. Below is a list of exchanges that we use and recommend. 
 
 
 Trading 212 
-Revolut  [Revolut](https://revolut.com/referral/benaqtbc!MASC)
-Degiro [Degiro](https://www.degiro.co.uk/member-get-member/start-trading?id=E130DFA9&amp;utm_source=mgm)
+[Revolut](https://revolut.com/referral/benaqtbc!MASC)
+Degiro](https://www.degiro.co.uk/member-get-member/start-trading?id=E130DFA9&amp;utm_source=mgm)
 
 
-How to open a retail trading account 
+**How to open a retail trading account** 
 
 Opening an account is fairly simple. You will need a form of identification, a passport or driver's license is the norm. A bank account and a mobile phone with internet. 
 
@@ -24,7 +24,7 @@ Revolut has a good amount of commission free trades, but is also a bank account 
 Degiro has a very comprehensive number of assets to choose to invest in and is complemented by a great mobile or desktop application user interface.
 
 
-Wetting your feet
+**Wetting your feet**
 
 We highly recommend only using money you are willing to lose while you are investing. If you use money that you rely on you will find it hard to detach your emotions from your investments and are more likely to make silly decisions. You can read more about that in this blog [https://vencoinvesting.me/Trading-Psychology/](https://vencoinvesting.me/Trading-Psychology/)
 
