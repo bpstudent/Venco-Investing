@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-**How To Start Retail Trading 101**
+How To Start Retail Trading 101
 
 The easiest and fastest way to start retail trading is through using a mobile phone and a mobile trading application. Some of these come with desktop services also while others do not. Below is a list of exchanges that we use and recommend. 
 
